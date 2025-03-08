@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Blox | My Site</title>
+    <link>https://traoreanrinoel.github.io/en/tags/hugo-blox/</link>
+      <atom:link href="https://traoreanrinoel.github.io/en/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Blox</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://traoreanrinoel.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Hugo Blox</title>
+      <link>https://traoreanrinoel.github.io/en/tags/hugo-blox/</link>
+    </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://traoreanrinoel.github.io/en/post/01/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://traoreanrinoel.github.io/en/post/01/</guid>
+      <description>&lt;h1 id=&#34;произошедшее-на-неделе&#34;&gt;Произошедшее на неделе&lt;/h1&gt;
+&lt;p&gt;Эта неделя была насыщенной и продуктивной! Вот что произошло:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Завершение первой лабораторной работы&lt;/strong&gt;. Я успешно сдал первую лабораторную по программированию, это была хорошая возможность для закрепления знаний и применения их на практике. Поставленная цель была достигнута, и это дает уверенность в дальнейших успехах.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Теоретические занятия&lt;/strong&gt;. Мы изучали основы теории вероятностей и математической статистики. Эти темы будут полезны в будущем, так как они лежат в основе многих алгоритмов и моделей.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Программирование&lt;/strong&gt;. В рамках курса по программированию, я написал небольшой проект, связанный с обработкой данных, что позволило лучше понять работу с массивами и алгоритмами сортировки.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Встречи с преподавателями&lt;/strong&gt;. На неделе состоялась интересная встреча с преподавателями, где обсуждали актуальные тенденции в области IT и прикладной информатики.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Неделя прошла быстро, но принесла много новых знаний и уверенности в правильности выбранного пути.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

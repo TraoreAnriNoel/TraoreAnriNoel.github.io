@@ -1,72 +1,57 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Hugo Academic CV Theme</title>
-    <link>https://example.com/publication/</link>
-      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <title>Публикации | Мой сайт</title>
+    <link>https://traoreanrinoel.github.io/publication/</link>
+      <atom:link href="https://traoreanrinoel.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Публикации</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
-      <title>Publications</title>
-      <link>https://example.com/publication/</link>
+      <url>https://traoreanrinoel.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Публикации</title>
+      <link>https://traoreanrinoel.github.io/publication/</link>
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;https://example.com/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>Непрерывная интеграция и развертывание</title>
+      <link>https://traoreanrinoel.github.io/publication/01/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://traoreanrinoel.github.io/publication/01/</guid>
+      <description>&lt;h1 id=&#34;непрерывная-интеграция-и-непрерывное-развертывание-cicd&#34;&gt;Непрерывная интеграция и непрерывное развертывание (CI/CD)&lt;/h1&gt;
+&lt;p&gt;В последние годы понятия &lt;strong&gt;непрерывной интеграции&lt;/strong&gt; (CI) и &lt;strong&gt;непрерывного развертывания&lt;/strong&gt; (CD) стали неотъемлемой частью современных процессов разработки программного обеспечения. Эти подходы позволяют ускорить выпуск программных продуктов, повысить качество кода и сделать процессы разработки более предсказуемыми и стабильными. В этом посте я расскажу, что представляют собой CI и CD, их основные принципы и преимущества.&lt;/p&gt;
+&lt;h2 id=&#34;что-такое-cicd&#34;&gt;Что такое CI/CD?&lt;/h2&gt;
+&lt;h3 id=&#34;непрерывная-интеграция-ci&#34;&gt;Непрерывная интеграция (CI)&lt;/h3&gt;
+&lt;p&gt;Непрерывная интеграция (Continuous Integration) — это практика, при которой разработчики регулярно интегрируют свои изменения в основную ветку репозитория. Это делается несколько раз в день, чтобы убедиться, что код не вызывает проблем с уже существующим функционалом. Основными компонентами CI являются:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Автоматизация тестирования&lt;/strong&gt;: Каждый коммит или пуш в репозиторий автоматически вызывает процесс сборки и тестирования, что позволяет сразу же выявить ошибки и проблемы.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Интеграция изменений&lt;/strong&gt;: Постоянная интеграция изменений позволяет избежать конфликтов при объединении веток в основной код и делает процесс разработки более скоординированным.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Обратная связь&lt;/strong&gt;: Разработчики получают моментальную обратную связь о качестве кода, что помогает им оперативно исправлять ошибки и улучшать продукт.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;непрерывное-развертывание-cd&#34;&gt;Непрерывное развертывание (CD)&lt;/h3&gt;
+&lt;p&gt;Непрерывное развертывание (Continuous Delivery или Continuous Deployment) — это практика, при которой код, прошедший все тесты и проверки на этапе CI, автоматически развертывается в производственной среде. Это значительно ускоряет процесс доставки новых функций и исправлений пользователю. CD может включать в себя:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Автоматизированное развертывание&lt;/strong&gt;: Код, прошедший все тесты, автоматически отправляется на серверы для использования конечными пользователями.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Безопасность&lt;/strong&gt;: Несмотря на автоматизацию развертывания, каждый этап тщательно проверяется, чтобы избежать возможных ошибок и сбоев.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Мониторинг и обратная связь&lt;/strong&gt;: После развертывания системы мониторятся для отслеживания проблем и анализа производительности.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;преимущества-cicd&#34;&gt;Преимущества CI/CD&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ускорение разработки&lt;/strong&gt;: CI/CD ускоряют процесс разработки, автоматизируя большинство рутинных задач, таких как тестирование и развертывание. Это позволяет командам быстрее реагировать на изменения и потребности пользователей.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Увеличение качества кода&lt;/strong&gt;: Автоматические тесты и проверка кода позволяют обнаруживать ошибки на ранних стадиях, что снижает количество багов в продакшн-версиях.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Снижение рисков&lt;/strong&gt;: Путем регулярного выпуска маленьких, проверенных изменений снижается риск крупных ошибок, которые могли бы возникнуть при выпуске больших обновлений.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Повышение доверия со стороны пользователей&lt;/strong&gt;: Быстрое исправление ошибок и добавление новых функций повышает доверие пользователей к продукту, так как они видят, что над проектом постоянно работают.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;примеры-инструментов-cicd&#34;&gt;Примеры инструментов CI/CD&lt;/h2&gt;
+&lt;p&gt;Существует большое количество инструментов, которые могут помочь в автоматизации процессов CI/CD. Некоторые из них:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Jenkins&lt;/strong&gt;: Один из самых популярных инструментов для CI, который позволяет создавать автоматизированные пайплайны для тестирования и развертывания.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitLab CI/CD&lt;/strong&gt;: Встроенная CI/CD система в GitLab, которая позволяет автоматизировать процессы на всех этапах разработки.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Travis CI&lt;/strong&gt;: Облачный сервис для CI/CD, интегрирующийся с GitHub, идеально подходит для открытых проектов.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CircleCI&lt;/strong&gt;: Еще один облачный инструмент для CI/CD, который поддерживает различные языки программирования и платформы.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Непрерывная интеграция и развертывание — это не просто модные термины, а необходимые практики для любой компании, которая стремится повысить эффективность разработки и улучшить качество программного обеспечения. С их помощью можно ускорить процесс выпуска продукта, снизить риски и сделать работу команды более слаженной.&lt;/p&gt;
+&lt;p&gt;Внедрение CI/CD — это инвестиция в долгосрочную стабильность и успех компании, а значит, каждую команду разработчиков стоит поощрять к интеграции этих практик в их повседневную работу.&lt;/p&gt;
 </description>
     </item>
     
