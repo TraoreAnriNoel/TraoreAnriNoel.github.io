@@ -5,12 +5,24 @@
     <link>https://traoreanrinoel.github.io/post/</link>
       <atom:link href="https://traoreanrinoel.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://traoreanrinoel.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Blog</title>
       <link>https://traoreanrinoel.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://traoreanrinoel.github.io/post/02/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://traoreanrinoel.github.io/post/02/</guid>
+      <description>&lt;h1 id=&#34;обзор-прошедшей-учебной-недели&#34;&gt;Обзор прошедшей учебной недели&lt;/h1&gt;
+&lt;p&gt;Наша учебная неделя была насыщена новыми задачами и интересными проектами. Мы сосредоточились на изучении основ алгоритмов и программирования, что требует особого внимания и усидчивости. Особенно приятно, что мы начали работать с реальными задачами, а не только теоретическими.&lt;/p&gt;
+&lt;p&gt;Занятия по LaTeX оставили неоднозначные впечатления. На первых порах система кажется сложной, но по мере практики открываются её возможности. Это настоящий инструмент для создания качественных научных и технических документов.&lt;/p&gt;
+&lt;p&gt;Процесс обучения захватывает, и я уверен, что следующие недели принесут ещё больше интересных открытий!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
