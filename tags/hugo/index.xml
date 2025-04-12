@@ -5,7 +5,7 @@
     <link>https://traoreanrinoel.github.io/tags/hugo/</link>
       <atom:link href="https://traoreanrinoel.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://traoreanrinoel.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo</title>
@@ -13,27 +13,44 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://traoreanrinoel.github.io/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://traoreanrinoel.github.io/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://traoreanrinoel.github.io/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://traoreanrinoel.github.io/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://traoreanrinoel.github.io/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://traoreanrinoel.github.io/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Как и зачем научному сотруднику завести сайт на Hugo Academic</title>
+      <link>https://traoreanrinoel.github.io/project/hugo/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://traoreanrinoel.github.io/project/hugo/</guid>
+      <description>&lt;p&gt;В современном научном мире мало просто писать статьи и выступать на конференциях. Чтобы работа не терялась в шуме информации, важно уметь представить себя — понятно, удобно и в цифровом формате. И персональный сайт — это не роскошь, а реальный инструмент для профессионального роста.&lt;/p&gt;
+&lt;p&gt;Один из самых удобных способов создать такой сайт — использовать &lt;strong&gt;Hugo Academic&lt;/strong&gt;. Это не просто шаблон для блога, а полноценная платформа для построения научного портфолио.&lt;/p&gt;
+&lt;h2 id=&#34;что-даёт-сайт-исследователя&#34;&gt;Что даёт сайт исследователя?&lt;/h2&gt;
+&lt;p&gt;Личный сайт выполняет сразу несколько функций:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Делает вас заметнее для коллег, организаторов конференций и научных сообществ.&lt;/li&gt;
+&lt;li&gt;Объединяет публикации, проекты, курсы, презентации и другую деятельность в одном месте.&lt;/li&gt;
+&lt;li&gt;Упрощает коммуникацию — достаточно одной ссылки, чтобы показать всю свою работу.&lt;/li&gt;
+&lt;li&gt;Даёт полный контроль: вы сами решаете, как и что показывать.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;В отличие от профилей в научных сетях, сайт — это ваша территория, без рекламы, алгоритмов и ограничений.&lt;/p&gt;
+&lt;h2 id=&#34;почему-именно-hugo-academic&#34;&gt;Почему именно Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;Среди десятков решений Hugo Academic (ныне часто называемый Hugo Scholar) выделяется:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Он ориентирован &lt;strong&gt;именно на учёных&lt;/strong&gt; — всё уже предусмотрено: публикации, резюме, биография, список мероприятий.&lt;/li&gt;
+&lt;li&gt;Работает на базе Hugo — генератора статических сайтов. Это значит: быстро, безопасно, без базы данных.&lt;/li&gt;
+&lt;li&gt;Структура проекта понятна, легко настраивается, и в то же время позволяет гибко управлять содержимым.&lt;/li&gt;
+&lt;li&gt;Есть готовые виджеты: для отображения публикаций, ссылок на GitHub, отображения курсов, постов блога и т.д.&lt;/li&gt;
+&lt;li&gt;Прекрасно интегрируется с системами вроде ORCID, Google Scholar и Zotero.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;что-можно-разместить&#34;&gt;Что можно разместить?&lt;/h2&gt;
+&lt;p&gt;Типичная структура сайта учёного может включать:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Краткую биографию и контактную информацию&lt;/li&gt;
+&lt;li&gt;Список публикаций и проектов&lt;/li&gt;
+&lt;li&gt;Раздел с материалами лекций или онлайн-курсов&lt;/li&gt;
+&lt;li&gt;Блог о научной жизни и технологиях&lt;/li&gt;
+&lt;li&gt;CV в интерактивном формате&lt;/li&gt;
+&lt;li&gt;Ссылки на соцсети, GitHub, научные профили&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Сайт может стать не только портфолио, но и своего рода научным дневником, площадкой для обмена идеями и материалами.&lt;/p&gt;
+&lt;h2 id=&#34;подводя-итог&#34;&gt;Подводя итог&lt;/h2&gt;
+&lt;p&gt;Сайт на Hugo Academic — это современный способ представить себя в научном мире. Он помогает не только систематизировать собственную деятельность, но и выстраивает ваш цифровой образ. Если вы серьёзно занимаетесь наукой — заведите себе сайт. Он скажет о вас больше, чем сухой список публикаций.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
